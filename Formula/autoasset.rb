@@ -4,8 +4,8 @@
 class Autoasset < Formula
   desc "iOS 资源文件管理脚本"
   homepage "https://github.com/autoasset/autoasset"
-  url "https://github.com/autoasset/autoasset/releases/download/21/autoasset-21.tar.gz"
-  sha256 "11ebd433ea0b88cbce70beceb704f2daca6d18094916d095bf3cc8cb131222e7"
+  url "https://github.com/autoasset/autoasset/releases/download/22/autoasset-22.tar.gz"
+  sha256 "0693c6e6253be2d47fc48f841242f3c90229b23f7dd60c398a967997f8082165"
 
   def install
     bin.install "Autoasset"
